@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Reiner Terry Gunawan
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning Node.Js and JavaScript
+- 📫 How to reach me reinerterry@gmail.com
