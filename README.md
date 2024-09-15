@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reiner Terry</h1>
 <h3 align="center">I am a passionate full-stack Node.js developer with expertise in fintech and software solutions.</h3>
 
-- 🌱 I’m currently learning **NestJs**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragorein&label=Profile%20views&color=0e75b6&style=flat" alt="dragorein" /> </p>
+
+- 🌱 I’m currently learning **NestJs and NextJs**
 
 - 📫 How to reach me **reinerterry@gmail.com**
 
